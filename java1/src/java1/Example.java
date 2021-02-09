@@ -7,6 +7,7 @@ public class Example {
 		int b = 7;
 		System.out.println(a+b);
 		System.out.println("print");
+		System.out.println("Mindtree");
 	
 		System.out.println("");
 	}
